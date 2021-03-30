@@ -3,7 +3,7 @@
 
 ### MyLabel
 
-```MyLabel
+```swift
 
 class ViewController: UIViewController {
 
