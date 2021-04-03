@@ -24,3 +24,13 @@ class ViewController: UIViewController {
 
 }
 ```
+### USES: MyUIButton
+
+```swift
+
+class ViewController: UIViewController {
+
+  
+
+}
+```
